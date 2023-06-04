@@ -1,4 +1,5 @@
 # Set Game 
+![Screenshot](./image/screenshot.png)
 ## Adam Wang
 
 ## Start Instructions
